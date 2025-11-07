@@ -1,0 +1,1 @@
+!ollama pull qwen3:1.7b

@@ -1,0 +1,1 @@
+!pip install requests python-dotenv fuzzywuzzy python-Levenshtein -U openai-whisper pyTelegramBotAPI -q
